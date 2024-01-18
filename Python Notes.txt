@@ -1,0 +1,50 @@
+Introduction to Programming
+
+Python
+- General Purpose Language
+  - Software Development, Web Development, Mobile App Development, AI, Game Development, Security
+- Interpreted Language
+- Dynamically Typed
+- Functional Programming
+
+Python 2 vs Python 3
+
+Data Types
+Numeric
+- int
+- float
+- complex
+
+String
+- str
+
+Bytes
+- bytes
+
+Boolean
+- True
+- False
+
+Data Collection
+- List
+- Tuples
+- Dictionary
+- Set
+===================
+
+Operators
+Arithmetic -> +, -, /, *, %, //, **
+Comparison -> ==, !=, >, <, >=, <=
+Logical -> and, or, not
+Membership Operators -> in, not in
+Identity Operators -> is, is not
+
+
+
+
+
+
+
+
+
+
