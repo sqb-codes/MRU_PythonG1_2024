@@ -1,4 +1,4 @@
-num = 1125
+num = 17
 prime = True
 
 for i in range(2, num):

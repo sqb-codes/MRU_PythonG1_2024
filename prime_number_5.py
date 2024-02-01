@@ -1,5 +1,6 @@
 import math
-num = 100000007
+#num = 100000007
+num = 997
 sqrt = int(math.sqrt(num))
 
 if num % 2 == 0 or num % 3 == 0:

@@ -1,4 +1,4 @@
-num = 997
+num = 17
 count = 0
 for i in range(2, num):
     count += 1
